@@ -1,4 +1,4 @@
-# Ping-Pong-Twist
+# Ping-Pong Twist
 
 ## Overview
 
